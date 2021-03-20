@@ -44,21 +44,21 @@ const Profile = (props) => {
   ];
 
   // map(callbackfuntion(currenValue, index, array) argument)
- const newprofilearray = profilelistarray.map((newArray, i) => {
-    return (
-      <Profilelist
-        id={profilelistarray[i].name}
-        name={profilelistarray[i].name}
-        work={profilelistarray[i].work}
-      />
-    );
-  });
+//  const newprofilearray = profilelistarray.map((newArray, i) => {
+//     return (
+//       <Profilelist
+//         id={profilelistarray[i].name}
+//         name={profilelistarray[i].name}
+//         work={profilelistarray[i].work}
+//       />
+//     );
+//   });
 
   return (
     <div>
       <h1 className=" heading tc">SBI PROFILE</h1>
 
-      {/* hardcore method :-
+      {/* hardcore method :- */}
       <Profilelist id={profilelistarray[0].name} 
                           name={profilelistarray[0].name} 
                           work={profilelistarray[0].name} />
@@ -77,11 +77,11 @@ const Profile = (props) => {
 
       <Profilelist id={profilelistarray[4].name} 
                           name={profilelistarray[4].name} 
-                          work={profilelistarray[4].name} /> */}
+                          work={profilelistarray[4].name} />
 
         {/* Using mapFunction :  */}
 
-                          {newprofilearray}
+                          {/* {newprofilearray} */}
 
       <button>Enter</button>
     </div>

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Syne+Mono&display=swap');
+
+
+.mainprofile{
+    background-color: rgb(255, 153, 0);
+    width: 14.5%;
+    padding-bottom: 5px;
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+}

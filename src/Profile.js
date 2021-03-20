@@ -49,7 +49,7 @@ const Profile = (props) => {
       <Profilelist
         id={profilelistarray[i].name}
         name={profilelistarray[i].name}
-        // work={profilelistarray[i].work}
+        work={profilelistarray[i].work}
       />
     );
   });

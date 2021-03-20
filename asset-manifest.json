@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SBI-FirstReactProject/static/css/main.3d0cf36a.chunk.css",
+    "main.js": "/SBI-FirstReactProject/static/js/main.9de7d91a.chunk.js",
+    "main.js.map": "/SBI-FirstReactProject/static/js/main.9de7d91a.chunk.js.map",
+    "runtime-main.js": "/SBI-FirstReactProject/static/js/runtime-main.ff666f6f.js",
+    "runtime-main.js.map": "/SBI-FirstReactProject/static/js/runtime-main.ff666f6f.js.map",
+    "static/css/2.fe359a49.chunk.css": "/SBI-FirstReactProject/static/css/2.fe359a49.chunk.css",
+    "static/js/2.c01b030e.chunk.js": "/SBI-FirstReactProject/static/js/2.c01b030e.chunk.js",
+    "static/js/2.c01b030e.chunk.js.map": "/SBI-FirstReactProject/static/js/2.c01b030e.chunk.js.map",
+    "static/js/3.0be78744.chunk.js": "/SBI-FirstReactProject/static/js/3.0be78744.chunk.js",
+    "static/js/3.0be78744.chunk.js.map": "/SBI-FirstReactProject/static/js/3.0be78744.chunk.js.map",
+    "index.html": "/SBI-FirstReactProject/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/SBI-FirstReactProject/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.3d0cf36a.chunk.css.map": "/SBI-FirstReactProject/static/css/main.3d0cf36a.chunk.css.map",
+    "static/js/2.c01b030e.chunk.js.LICENSE.txt": "/SBI-FirstReactProject/static/js/2.c01b030e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SBI-FirstReactProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff666f6f.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.c01b030e.chunk.js",
+    "static/css/main.3d0cf36a.chunk.css",
+    "static/js/main.9de7d91a.chunk.js"
+  ]
+}

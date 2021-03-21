@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SBI-FirstRepo/static/css/main.fcd13cfa.chunk.css",
-    "main.js": "/SBI-FirstRepo/static/js/main.c6ad853a.chunk.js",
-    "main.js.map": "/SBI-FirstRepo/static/js/main.c6ad853a.chunk.js.map",
+    "main.js": "/SBI-FirstRepo/static/js/main.976c7139.chunk.js",
+    "main.js.map": "/SBI-FirstRepo/static/js/main.976c7139.chunk.js.map",
     "runtime-main.js": "/SBI-FirstRepo/static/js/runtime-main.8e257b51.js",
     "runtime-main.js.map": "/SBI-FirstRepo/static/js/runtime-main.8e257b51.js.map",
     "static/css/2.fe359a49.chunk.css": "/SBI-FirstRepo/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.c01b030e.chunk.js",
     "static/css/main.fcd13cfa.chunk.css",
-    "static/js/main.c6ad853a.chunk.js"
+    "static/js/main.976c7139.chunk.js"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SBI-FirstRepo/static/css/main.fcd13cfa.chunk.css",
+    "main.js": "/SBI-FirstRepo/static/js/main.c6ad853a.chunk.js",
+    "main.js.map": "/SBI-FirstRepo/static/js/main.c6ad853a.chunk.js.map",
+    "runtime-main.js": "/SBI-FirstRepo/static/js/runtime-main.8e257b51.js",
+    "runtime-main.js.map": "/SBI-FirstRepo/static/js/runtime-main.8e257b51.js.map",
+    "static/css/2.fe359a49.chunk.css": "/SBI-FirstRepo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.c01b030e.chunk.js": "/SBI-FirstRepo/static/js/2.c01b030e.chunk.js",
+    "static/js/2.c01b030e.chunk.js.map": "/SBI-FirstRepo/static/js/2.c01b030e.chunk.js.map",
+    "static/js/3.0be78744.chunk.js": "/SBI-FirstRepo/static/js/3.0be78744.chunk.js",
+    "static/js/3.0be78744.chunk.js.map": "/SBI-FirstRepo/static/js/3.0be78744.chunk.js.map",
+    "index.html": "/SBI-FirstRepo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/SBI-FirstRepo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.fcd13cfa.chunk.css.map": "/SBI-FirstRepo/static/css/main.fcd13cfa.chunk.css.map",
+    "static/js/2.c01b030e.chunk.js.LICENSE.txt": "/SBI-FirstRepo/static/js/2.c01b030e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SBI-FirstRepo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e257b51.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.c01b030e.chunk.js",
+    "static/css/main.fcd13cfa.chunk.css",
+    "static/js/main.c6ad853a.chunk.js"
+  ]
+}
